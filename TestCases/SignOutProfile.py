@@ -14,7 +14,7 @@ from TestCases.BaseTest import BaseTestClass
 
 class Sign_Out_From_Profile(BaseTestClass):
     def setUp(self):
-        self.logger.add_log("INFO", "_______________________________________")
+        self.logger.add_log("INFO", "___________________________________")
         self.Amazon_Main_Page = Amazon_Main_Page.Amazon_Main_Page(self.driver)
         self.Login_Page = Login_Page.LoginPage(self.driver)
         self.Password_Page = Password_Page.PasswordPage(self.driver)
