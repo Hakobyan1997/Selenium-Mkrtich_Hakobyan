@@ -1,0 +1,25 @@
+from selenium.webdriver.common.by import By
+
+
+class LocatorsClass():
+    sign_in_to_account = (By.CSS_SELECTOR,"a#nav-link-accountList")
+    email_path = (By.NAME, "email")
+    continue_button_path = (By.CLASS_NAME, "a-button-input")
+    password_path = (By.NAME, "password")
+    sign_in_button_path = (By.ID, "signInSubmit")
+    keep_me_signed_in_checkbox_path=(By.NAME, "rememberMe")
+    search_field_path = (By.CSS_SELECTOR, "input#twotabsearchtextbox")
+    selected_product_path = (By.XPATH,'//*[@id="search"]/div[1]/div[1]/div/span[3]/div[2]/div[2]/div/div/div/div/div/div')
+    add_to_cart_button = (By.CSS_SELECTOR, "input#add-to-cart-button")
+    shopping_cart_locator = (By.ID,"nav-cart-count-container")
+    delete_button_locator = (By.XPATH, "//input[@value='Delete']")
+    my_account_locator = (By.XPATH,'//*[@id="a-page"]/div[2]/div/div[3]/div[3]/a')
+    your_profiles_path = (By.XPATH,"//a[@href='https://www.amazon.com/manage-your-profiles/home?ref_=ya_manage_your_profiles?ref_=ya_your_profile_rich-card']")
+    manage_profile_path = (By.ID, "home-profile-0")
+    edit_account_holder_path = (By.ID,"name-edit-pencil-image")
+    profile_name_field_path = (By.ID,"profile-name-text-input")
+    save_changes_button_path = (By.CSS_SELECTOR, "input.a-button-input")
+    all_button = (By.ID,"nav-hamburger-menu")
+    sign_out_button = (By.XPATH,'//*[@id="hmenu-content"]/ul/li[25]/a')
+    quantity_to_choose_path = (By.XPATH,"//*[@id='a-autoid-0']")
+    quantity_to_choose_number_path = (By.XPATH, '//*[@id="quantity_7"]')

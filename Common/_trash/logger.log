@@ -1,0 +1,147 @@
+05-06-2022 21:47:06 ERROR Element {} not found
+05-06-2022 21:50:15 WARNING Be carefully
+05-06-2022 21:53:38 INFO Sign In
+05-06-2022 21:55:47 INFO Sign In
+05-06-2022 21:57:13 INFO Sign In
+05-06-2022 21:57:25 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ac96550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d1842a0a7099ed0b4c133052bfed6ad/window
+05-06-2022 21:57:25 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ac962e8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d1842a0a7099ed0b4c133052bfed6ad/window
+05-06-2022 21:57:25 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ac96240>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d1842a0a7099ed0b4c133052bfed6ad/window
+05-06-2022 21:57:25 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ac962b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d1842a0a7099ed0b4c133052bfed6ad/cookie
+05-06-2022 21:57:25 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10ac96dd8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d1842a0a7099ed0b4c133052bfed6ad/cookie
+05-06-2022 21:57:26 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b12d7b8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/3d1842a0a7099ed0b4c133052bfed6ad/cookie
+05-06-2022 21:57:44 INFO Sign In
+05-06-2022 21:58:09 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1065a9358>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e931224cdf82bf38b0ba951d1b7d513/window
+05-06-2022 21:58:09 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1065a9588>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e931224cdf82bf38b0ba951d1b7d513/window
+05-06-2022 21:58:09 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1065a9630>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e931224cdf82bf38b0ba951d1b7d513/window
+05-06-2022 21:58:09 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106593550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e931224cdf82bf38b0ba951d1b7d513/cookie
+05-06-2022 21:58:09 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1065a9828>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e931224cdf82bf38b0ba951d1b7d513/cookie
+05-06-2022 21:58:09 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1066c2828>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5e931224cdf82bf38b0ba951d1b7d513/cookie
+05-06-2022 21:58:21 INFO Sign In
+05-06-2022 21:58:28 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c6615c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8eddf36842746a9d74a7fa31cd426e57/window
+05-06-2022 21:58:28 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c661588>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8eddf36842746a9d74a7fa31cd426e57/window
+05-06-2022 21:58:28 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c661358>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8eddf36842746a9d74a7fa31cd426e57/window
+05-06-2022 21:58:28 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c661320>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8eddf36842746a9d74a7fa31cd426e57/cookie
+05-06-2022 21:58:28 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c661860>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8eddf36842746a9d74a7fa31cd426e57/cookie
+05-06-2022 21:58:28 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10c1a37b8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8eddf36842746a9d74a7fa31cd426e57/cookie
+05-06-2022 22:04:57 INFO Sign In
+05-06-2022 22:05:09 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d239630>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/708035826319881087c896b11ea8d687/window
+05-06-2022 22:05:09 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d2395f8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/708035826319881087c896b11ea8d687/window
+05-06-2022 22:05:09 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d2393c8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/708035826319881087c896b11ea8d687/window
+05-06-2022 22:05:09 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d239390>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/708035826319881087c896b11ea8d687/cookie
+05-06-2022 22:05:09 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d2398d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/708035826319881087c896b11ea8d687/cookie
+05-06-2022 22:05:09 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10cc26828>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/708035826319881087c896b11ea8d687/cookie
+05-06-2022 22:17:59 INFO Sign In
+05-06-2022 22:18:34 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107993780>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9edacb6adf3956058acf5451215560ea/window
+05-06-2022 22:18:34 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1079935c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9edacb6adf3956058acf5451215560ea/window
+05-06-2022 22:18:34 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1079934a8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9edacb6adf3956058acf5451215560ea/window
+05-06-2022 22:18:34 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1079935f8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9edacb6adf3956058acf5451215560ea/cookie
+05-06-2022 22:18:34 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107994128>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9edacb6adf3956058acf5451215560ea/cookie
+05-06-2022 22:18:34 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1079940b8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9edacb6adf3956058acf5451215560ea/cookie
+05-06-2022 22:18:56 INFO Sign In
+05-06-2022 22:22:26 INFO Sign In
+05-06-2022 22:22:39 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1090937f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8117be0e884c40cf052d29876acf5551/window
+05-06-2022 22:22:39 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1090935c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8117be0e884c40cf052d29876acf5551/window
+05-06-2022 22:22:39 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1090935f8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8117be0e884c40cf052d29876acf5551/window
+05-06-2022 22:22:40 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109093668>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8117be0e884c40cf052d29876acf5551/cookie
+05-06-2022 22:22:40 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109092208>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8117be0e884c40cf052d29876acf5551/cookie
+05-06-2022 22:22:40 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x109092198>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8117be0e884c40cf052d29876acf5551/cookie
+05-06-2022 22:22:54 INFO Sign In
+05-06-2022 22:23:22 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101d12588>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a2b4d569e854b018ba8459d9defab37d/window
+05-06-2022 22:23:22 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101d127b8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a2b4d569e854b018ba8459d9defab37d/window
+05-06-2022 22:23:22 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101d12940>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a2b4d569e854b018ba8459d9defab37d/window
+05-06-2022 22:23:22 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101d125f8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a2b4d569e854b018ba8459d9defab37d/cookie
+05-06-2022 22:23:22 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101d33160>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a2b4d569e854b018ba8459d9defab37d/cookie
+05-06-2022 22:23:22 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x101d330f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a2b4d569e854b018ba8459d9defab37d/cookie
+05-06-2022 22:23:36 INFO Sign In
+05-06-2022 22:23:56 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1114e0898>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f1cdc463243cc7ab75f6d98560b0988/window
+05-06-2022 22:23:56 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1114e0780>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f1cdc463243cc7ab75f6d98560b0988/window
+05-06-2022 22:23:56 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1114e05c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f1cdc463243cc7ab75f6d98560b0988/window
+05-06-2022 22:23:56 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1114e05f8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f1cdc463243cc7ab75f6d98560b0988/cookie
+05-06-2022 22:23:56 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111501198>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f1cdc463243cc7ab75f6d98560b0988/cookie
+05-06-2022 22:23:56 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111501128>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/4f1cdc463243cc7ab75f6d98560b0988/cookie
+05-06-2022 22:26:54 INFO Sign In
+05-06-2022 22:29:06 INFO Sign In
+05-06-2022 22:29:39 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063447f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e63879af23a63362a80d3230f12f5388/window
+05-06-2022 22:29:39 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063445f8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e63879af23a63362a80d3230f12f5388/window
+05-06-2022 22:29:39 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1063444e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e63879af23a63362a80d3230f12f5388/window
+05-06-2022 22:29:39 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106344550>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e63879af23a63362a80d3230f12f5388/cookie
+05-06-2022 22:29:39 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106365940>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e63879af23a63362a80d3230f12f5388/cookie
+05-06-2022 22:29:39 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106365a20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/e63879af23a63362a80d3230f12f5388/cookie
+05-06-2022 22:30:36 INFO Sign In
+06-06-2022 12:02:26 INFO Sign In
+06-06-2022 12:02:38 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d4b3a20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9f53cec56050cd6341456b35b1635dc0/window
+06-06-2022 12:02:38 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d4b3668>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9f53cec56050cd6341456b35b1635dc0/window
+06-06-2022 12:02:38 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d4b37b8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9f53cec56050cd6341456b35b1635dc0/window
+06-06-2022 12:02:38 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d4b3780>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9f53cec56050cd6341456b35b1635dc0/cookie
+06-06-2022 12:02:38 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d919320>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9f53cec56050cd6341456b35b1635dc0/cookie
+06-06-2022 12:02:38 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10d9192b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/9f53cec56050cd6341456b35b1635dc0/cookie
+06-06-2022 12:31:43 INFO Delete all product from cart
+06-06-2022 12:40:11 INFO Delete all product from cart
+06-06-2022 13:32:19 INFO Sign In
+06-06-2022 15:02:53 INFO Sign In
+06-06-2022 15:03:34 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10208b0b8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb54bb8df5724092de1ec16b88f610fc/window
+06-06-2022 15:03:34 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10208b0f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb54bb8df5724092de1ec16b88f610fc/window
+06-06-2022 15:03:34 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10208b358>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb54bb8df5724092de1ec16b88f610fc/window
+06-06-2022 15:03:34 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x102061f28>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb54bb8df5724092de1ec16b88f610fc/cookie
+06-06-2022 15:03:35 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10208bac8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb54bb8df5724092de1ec16b88f610fc/cookie
+06-06-2022 15:03:35 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1023223c8>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/fb54bb8df5724092de1ec16b88f610fc/cookie
+06-06-2022 15:03:53 INFO Sign In
+06-06-2022 15:04:18 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1083a59b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/799df1ae7ffbdc38d9f68e02cc426004/window
+06-06-2022 15:04:18 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1083a56a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/799df1ae7ffbdc38d9f68e02cc426004/window
+06-06-2022 15:04:18 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1083a5748>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/799df1ae7ffbdc38d9f68e02cc426004/window
+06-06-2022 15:04:18 WARNING Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1083a5710>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/799df1ae7ffbdc38d9f68e02cc426004/cookie
+06-06-2022 15:04:18 WARNING Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1084a22b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/799df1ae7ffbdc38d9f68e02cc426004/cookie
+06-06-2022 15:04:18 WARNING Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1084a2240>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/799df1ae7ffbdc38d9f68e02cc426004/cookie
+06-06-2022 15:04:35 INFO Sign In
+07-06-2022 10:46:23 INFO Sign In
+07-06-2022 10:49:10 INFO Sign In
+07-06-2022 10:59:40 INFO Sign In
+07-06-2022 11:02:35 INFO Sign In
+07-06-2022 11:03:48 INFO Sign In
+07-06-2022 11:36:58 INFO Sign In
+07-06-2022 11:38:29 INFO Sign In
+07-06-2022 13:15:26 INFO Sign In
+07-06-2022 20:02:38 INFO Sign out profile
+07-06-2022 20:32:38 INFO Delete all product from cart
+07-06-2022 20:36:35 INFO Sign out profile
+07-06-2022 20:40:31 INFO Sign out profile
+07-06-2022 21:18:54 INFO ___________________________________
+07-06-2022 21:19:26 INFO ___________________________________
+07-06-2022 21:20:39 INFO ___________________________________
+07-06-2022 21:26:08 INFO ___________________________________
+07-06-2022 21:28:30 INFO ___________________________________
+07-06-2022 21:30:20 INFO ___________________________________
+07-06-2022 21:32:25 INFO ___________________________________
+07-06-2022 21:33:32 INFO ___________________________________
+07-06-2022 21:42:42 INFO ___________________________________
+07-06-2022 21:43:19 INFO Test Case 'AmazonSearch' Finished 
+07-06-2022 21:44:01 INFO ___________________________________
+07-06-2022 21:44:39 INFO Test Case 'AmazonSearch' Finished 
+07-06-2022 22:16:02 INFO ___________________________________
+07-06-2022 22:16:45 INFO Test Case 'AmazonSearch' Finished 
+07-06-2022 22:18:46 INFO ___________________________________
+07-06-2022 22:19:50 INFO ___________________________________
+07-06-2022 22:21:09 INFO Test Case 'DeleteProduct' Finished 
+07-06-2022 22:40:07 INFO ___________________________________
+07-06-2022 22:43:38 INFO ___________________________________
+07-06-2022 22:45:54 INFO ___________________________________
+07-06-2022 22:46:36 INFO Test Case 'EditProfileName' Finished 
+07-06-2022 22:48:34 INFO Sign out profile
+07-06-2022 22:50:01 INFO Test Case 'AmazonSearch' Finished 
+07-06-2022 22:51:00 INFO Test Case 'AmazonSearch' Finished 
+07-06-2022 22:53:40 INFO Test Case 'Sign_Out_From_Profile' Finished 
+07-06-2022 23:04:00 INFO ___________________________________
+07-06-2022 23:04:35 INFO Test Case 'AmazonSearch' Finished 
+07-06-2022 23:05:45 INFO ___________________________________
+07-06-2022 23:07:03 INFO Test Case 'DeleteProduct' Finished 
+07-06-2022 23:07:36 INFO ___________________________________
+07-06-2022 23:08:10 INFO Test Case 'DeleteProduct' Finished 
+07-06-2022 23:10:47 INFO ___________________________________
+07-06-2022 23:11:55 INFO Test Case 'Delete_All_Product' Finished 
+07-06-2022 23:12:35 INFO ___________________________________
+07-06-2022 23:13:15 INFO Test Case 'Edit_Profile_Name' Finished 
+07-06-2022 23:13:31 INFO ___________________________________
+07-06-2022 23:14:10 INFO ___________________________________
+07-06-2022 23:14:39 INFO Test Case 'ParcelQuantity' Finished 
+07-06-2022 23:14:58 INFO ___________________________________
+07-06-2022 23:15:33 INFO Test Case 'Sign_Out_From_Profile' Finished 
